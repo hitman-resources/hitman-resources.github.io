@@ -1,4 +1,4 @@
 {
-    "version": 1.1,
-    "changelog": "Fixed a few bugs, added support for failure conditions"
+    "version": 1.2,
+    "changelog": "Fixed a major bug in 1.1 that caused it to repeatedly ask for an update."
 }
