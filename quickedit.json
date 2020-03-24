@@ -1,4 +1,4 @@
 {
-    "version": 1.2,
-    "changelog": "Fixed a major bug in 1.1 that caused it to repeatedly ask for an update."
+    "version": 1.3,
+    "changelog": "Fixed a major bug in which I somehow forgot to include the patch builder, despite that being the whole point."
 }
