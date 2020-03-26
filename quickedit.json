@@ -1,6 +1,6 @@
 {
-    "version": 1.7,
-    "changelog": "Added primary vs secondary objectives (compound objectives are now somewhat possible), two new events and quite a few bug fixes.",
+    "version": 1.8,
+    "changelog": "Added support for mandatory loadouts. Also, item names are now available ('News Paper Roll' instead of a UUID).",
     "message": {
         "text": "You aren't meant to be seeing this - tell Atampy26 on Hitmanforum so he can fix it.",
         "showUntilTime": 0
