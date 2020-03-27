@@ -1,6 +1,6 @@
 {
-    "version": 1.81,
-    "changelog": "MAJOR BUG FIX - download or your mods will not allow custom loadouts! Also, improvements to error handling.",
+    "version": 1.82,
+    "changelog": "MAJOR BUG FIX - download or your mods will not build!",
     "message": {
         "text": "You aren't meant to be seeing this - tell Atampy26 on Hitmanforum so he can fix it.",
         "showUntilTime": 0
