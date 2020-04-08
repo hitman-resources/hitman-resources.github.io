@@ -1,6 +1,6 @@
 {
-    "version": 1.92,
-    "changelog": "Added the ability to change exit node logic, fuzzy search and Sapienza (Sunset).",
+    "version": 1.93,
+    "changelog": "Fixed the bug where the whole program wouldn't work.",
     "message": {
         "text": "You aren't meant to be seeing this - tell Atampy26 on Hitmanforum so he can fix it.",
         "showUntilTime": 0
