@@ -1,6 +1,6 @@
 {
-    "version": 1.93,
-    "changelog": "Fixed the bug where the whole program wouldn't work.",
+    "version": 1.94,
+    "changelog": "A slight UI tweak and Display as Kill Objective",
     "message": {
         "text": "You aren't meant to be seeing this - tell Atampy26 on Hitmanforum so he can fix it.",
         "showUntilTime": 0
