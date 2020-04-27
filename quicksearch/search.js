@@ -19,7 +19,7 @@ async function sendRequest() {
             "Title",
             "Name",
             "CommonName",
-            "_ID"
+            "ID_"
         ]
     }
     fuse = new Fuse(repository_data, fuseOptions)
@@ -60,7 +60,7 @@ displayCards = function (cards) {
                     type = "Starting Location"
                 }
             } else if (typeof card.item["Name_LOC"] != "undefined") {
-                if (card.item.Name_LOC.includes("agencypickup")) {
+                if (card.item.Name_LOC.includes("agencypickup") || card.item.Name_LOC.includes("agency_pickup")) {
                     type = "Agency Pickup"
                 }
             } else if (typeof card.item["Name_LOC"] != "undefined") {
