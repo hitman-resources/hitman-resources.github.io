@@ -2,9 +2,9 @@
     "version": 206,
     "display_version": 2.1,
     "changelog": "2.1 - includes a large amount of new content. Check the Mission Creator thread on Hitmanforum for more info!",
-    "beta_version": 209,
+    "beta_version": 210,
     "beta_display_version": 2.2,
-    "beta_changelog": "Added analytics - data is now collected when the buttons at the top are clicked and when errors occur.",
+    "beta_changelog": "improved Analytics",
     "message": {
         "text": "You aren't meant to be seeing this - tell Atampy26 on Hitmanforum so he can fix it.",
         "showUntilTime": 0
