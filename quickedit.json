@@ -1,7 +1,7 @@
 {
-    "version": 206,
-    "display_version": 2.1,
-    "changelog": "2.1 - includes a large amount of new content. Check the Mission Creator thread on Hitmanforum for more info!",
+    "version": 212,
+    "display_version": 2.2,
+    "changelog": "Fixed two bugs, added difficulties, improved display customisation, added analytics",
     "beta_version": 210,
     "beta_display_version": 2.2,
     "beta_changelog": "improved Analytics",
