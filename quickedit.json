@@ -2,9 +2,9 @@
     "version": 212,
     "display_version": 2.2,
     "changelog": "Fixed two bugs, added difficulties, improved display customisation, added analytics",
-    "beta_version": 213,
+    "beta_version": 214,
     "beta_display_version": 2.21,
-    "beta_changelog": "Misc. updates",
+    "beta_changelog": "Added more Map Features",
     "message": {
         "text": "You aren't meant to be seeing this - tell Atampy26 on Hitmanforum so he can fix it.",
         "showUntilTime": 0
