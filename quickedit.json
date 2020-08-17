@@ -1,7 +1,7 @@
 {
-    "version": 212,
-    "display_version": 2.2,
-    "changelog": "Fixed two bugs, added difficulties, improved display customisation, added analytics",
+    "version": 219,
+    "display_version": 2.21,
+    "changelog": "More Map Features, beautification of output files, cosmetic target names, fixes and more",
     "beta_version": 218,
     "beta_display_version": 2.21,
     "beta_changelog": "Fixed sanitisation of titles and descriptions",
