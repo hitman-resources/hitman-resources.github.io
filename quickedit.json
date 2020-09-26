@@ -1,7 +1,7 @@
 {
-    "version": 219,
-    "display_version": 2.21,
-    "changelog": "More Map Features, beautification of output files, cosmetic target names, fixes and more",
+    "version": 225,
+    "display_version": 2.3,
+    "changelog": "Backticks are now allowed in mod names, bugs have been fixed, and the REPO file can now be edited!",
     "beta_version": 223,
     "beta_display_version": 2.3,
     "beta_changelog": "The replacement of multiple items can now be done with one objective",
