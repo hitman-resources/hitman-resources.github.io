@@ -6,5 +6,13 @@
     {
         "name": "Realistic AI",
         "description": "Increases AI attentiveness and time spent searching. Three levels of difficulty."
+    },
+    {
+        "name": "The New Army",
+        "description": "Episode 1 of Mushroom's Special Assignment Pack. Replaces Arrival."
+    },
+    {
+        "name": "A Case Most Peculiar",
+        "description": "Episode 2 of Mushroom's Special Assignment Pack. Replaces Guided Training."
     }
 ]
