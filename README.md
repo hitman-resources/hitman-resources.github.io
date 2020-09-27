@@ -1,5 +1,5 @@
 # hitman-resources.github.io
-Hitman resources - a page for modding resources and a host for QuickEdit's (discontinued) web version.
+Hitman resources - a page for modding resources and a host for QuickMod's Mod Explorer.
 
 # IMPORTANT NOTE
 
