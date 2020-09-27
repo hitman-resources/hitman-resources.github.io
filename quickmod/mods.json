@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Focus",
+        "description": "Adds the Marksman ability to all weapons so that pressing Shift slows down time."
+    },
+    {
+        "name": "Realistic AI",
+        "description": "Increases AI attentiveness and time spent searching. Three levels of difficulty."
+    }
+]
