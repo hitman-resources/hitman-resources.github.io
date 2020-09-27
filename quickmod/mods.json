@@ -1,46 +1,62 @@
 [
     {
         "name": "Focus",
-        "description": "Adds the Marksman ability to all weapons so that pressing Shift slows down time."
+        "description": "Adds the Marksman ability to all weapons so that pressing Shift slows down time.",
+        "author": "Atampy26"
     },
     {
         "name": "Realistic AI",
-        "description": "Increases AI attentiveness and time spent searching. Three levels of difficulty."
+        "description": "Increases AI attentiveness and time spent searching. Three levels of difficulty.",
+        "author": "Atampy26"
     },
     {
         "name": "The New Army",
-        "description": "Episode 1 of Mushroom's Special Assignment Pack. Replaces Arrival."
+        "description": "Episode 1 of Mushroom's Special Assignment Pack. Replaces Arrival.",
+        "author": "musicalmushr00m"
     },
     {
         "name": "A Case Most Peculiar",
-        "description": "Episode 2 of Mushroom's Special Assignment Pack. Replaces Guided Training."
+        "description": "Episode 2 of Mushroom's Special Assignment Pack. Replaces Guided Training.",
+        "author": "musicalmushr00m"
     },
     {
         "name": "Mission Difficulties",
-        "description": "Enables extra difficulties on 9 missions. Enables saving in Holiday Hoarders and Hokkaido Snow Festival."
+        "description": "Enables extra difficulties on 9 missions. Enables saving in Holiday Hoarders and Hokkaido Snow Festival.",
+        "author": "musicalmushr00m"
     },
     {
         "name": "Malpractice",
-        "description": "Replaces the offline mode version of Patient Zero with an ET-style mission: steal the diamonds and kill the Director."
+        "description": "Replaces the offline mode version of Patient Zero with an ET-style mission: steal the diamonds and kill the Director.",
+        "author": "KevinRudd"
     },
     {
         "name": "CYOA Sapienza",
-        "description": "Adds a mission to Sapienza where you can choose who to work for, and which objectives to do."
+        "description": "Adds a mission to Sapienza where you can choose who to work for, and which objectives to do.",
+        "author": "KevinRudd"
     },
     {
         "name": "Sniper Assassin: Hawke-aido",
-        "description": "A Hawke's Bay Sniper Assassin-type mission set during sunset."
+        "description": "A Hawke's Bay Sniper Assassin-type mission set during sunset.",
+        "author": "KevinRudd"
     },
     {
         "name": "All Missions Offline",
-        "description": "Adds holiday and sniper missions to the menu when offline. Required for some mods to work."
+        "description": "Adds holiday and sniper missions to the menu when offline. Required for some mods to work.",
+        "author": "KevinRudd"
     },
     {
         "name": "CYOA Marrakesh",
-        "description": "Replaces A Gilded Cage with a mission where you work for either Crystal Dawn or the pro-democracy group Arab Spring."
+        "description": "Replaces A Gilded Cage with a mission where you work for either Crystal Dawn or the pro-democracy group Arab Spring.",
+        "author": "KevinRudd"
     },
     {
         "name": "Suit Replacement Mod",
-        "description": "Replaces 12 suits with disguises not unlockable in the normal game, as well as sneaking in cut disguises for specific maps."
+        "description": "Replaces 12 suits with disguises not unlockable in the normal game, as well as sneaking in cut disguises for specific maps.",
+        "author": "KevinRudd"
+    },
+    {
+        "name": "Fight Club",
+        "description": "Deletes all NPC weapons, forcing guards to fistfight you. That, or T-pose on you.",
+        "author": "Atampy26"
     }
 ]
