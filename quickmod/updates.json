@@ -1,7 +1,7 @@
 {
-    "version": 2,
-    "display_version": 1.01,
-    "changelog": "Adds a reset function.",
+    "version": 3,
+    "display_version": 1.02,
+    "changelog": "Adds a safeguard against selecting the wrong directory.",
     "message": {
         "text": "You aren't meant to be seeing this - tell Atampy26 on Hitmanforum so he can fix it.",
         "showUntilTime": 0
