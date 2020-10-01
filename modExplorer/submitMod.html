@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html style="background-color: #e8ffec" lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="theme-color" content="#e8ffec">
+	<link rel="stylesheet" href="bulma.min.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+	<title>Submit a mod</title>
+</head>
+
+<body>
+	<section class="section">
+		<div class="container">
+			<div class="level">
+				<div class="level-item">
+					<h1 class="title">Submit a mod</h1>
+				</div>
+			</div>
+		</div>
+	</section>
+	<div style="height: 5px; background-color: rgb(0, 0, 0, 0.2); border: none; margin-top: 0px; margin-bottom: 0px;">
+	</div>
+    <form name="submit" netlify>
+        
+	<section class="section">
+		<div class="container">
+            <h2 class="subtitle"><label>First off, what's the name of the mod?</label></h2>
+            <input type="text" name="name" class="input" placeholder="Short name for mod"></label>
+		</div>
+    </section>
+	<section class="section">
+		<div class="container">
+            <h2 class="subtitle"><label>Give a short description of the mod.</label></h2>
+            <input type="text" name="description" class="input" placeholder="Short description of mod"></label>
+		</div>
+    </section>
+	<section class="section">
+		<div class="container">
+            <h2 class="subtitle"><label>Who's the mod made by?</label></h2>
+            <input type="text" name="author" class="input" placeholder="Author of mod"></label>
+		</div>
+    </section>
+	<section class="section">
+		<div class="container">
+            <h2 class="subtitle"><label>Provide a 4:3 (1000x750) thumbnail for the mod.</label></h2>
+            <div class="file">
+                <label class="file-label">
+                  <input class="file-input" type="file" name="thumbnail">
+                  <span class="file-cta">
+                    <span class="file-icon">
+                      <i class="fas fa-upload"></i>
+                    </span>
+                    <span class="file-label">
+                      Upload
+                    </span>
+                  </span>
+                </label>
+              </div>
+		</div>
+    </section>
+	<section class="section">
+		<div class="container">
+            <h2 class="subtitle"><label>Upload your mod's H2Mod file.</label> <a href="https://github.com/hitman-resources/hitman-resources.github.io/wiki/The-H2Mod-format">What's a H2Mod file?</a></h2>
+            <div class="file">
+                <label class="file-label">
+                  <input class="file-input" type="file" name="file">
+                  <span class="file-cta">
+                    <span class="file-icon">
+                      <i class="fas fa-upload"></i>
+                    </span>
+                    <span class="file-label">
+                      Upload
+                    </span>
+                  </span>
+                </label>
+              </div>
+		</div>
+    </section>
+	<section class="section">
+		<div class="container">
+            <h2 class="subtitle"><label>How can I contact you if your mod is approved?</label></h2>
+            <input type="text" name="contact" class="input" placeholder="Contact method (provide an email or Hitmanforum username)"></label>
+		</div>
+    </section>
+	<section class="section">
+		<div class="container">
+            <h2 class="subtitle">All done? Submit the mod. I'll get back to you through the contact method you provided (if you provided one).</h2>
+            <button type="submit" class="button is-link">Submit</button>
+		</div>
+    </section>
+
+    </form>
+</body>
+
+</html>
