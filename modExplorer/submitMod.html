@@ -44,42 +44,16 @@
     </section>
     <section class="section">
       <div class="container">
-        <h2 class="subtitle"><label>Provide a 4:3 (1000x750) thumbnail for the mod.</label></h2>
-        <div class="file is-link">
-          <label class="file-label">
-            <input class="file-input" type="file" name="thumbnail" id="thumbnailUpload">
-            <span class="file-cta">
-              <span class="file-icon">
-                <i class="fas fa-upload"></i>
-              </span>
-              <span class="file-label">
-                Upload
-              </span>
-            </span>
-            <span class="file-name" id="thumbnailName"></span>
-          </label>
-        </div>
+        <h2 class="subtitle"><label>Upload a 4:3 (1000x750) thumbnail for the mod to a file sharing service and provide the link.</label></h2>
+        <input type="text" name="thumbnail" class="input" placeholder="Link to image"></label>
       </div>
     </section>
     <section class="section">
       <div class="container">
-        <h2 class="subtitle"><label>Upload your mod's H2Mod file.</label> <a
+        <h2 class="subtitle"><label>Upload your mod's H2Mod file to a file sharing service and provide the link.</label> <a
             href="https://github.com/hitman-resources/hitman-resources.github.io/wiki/The-H2Mod-format">What's a H2Mod
             file?</a></h2>
-        <div class="file is-link">
-          <label class="file-label">
-            <input class="file-input" type="file" name="file" id="h2modUpload">
-            <span class="file-cta">
-              <span class="file-icon">
-                <i class="fas fa-upload"></i>
-              </span>
-              <span class="file-label">
-                Upload
-              </span>
-            </span>
-            <span class="file-name" id="h2modName"></span>
-          </label>
-        </div>
+        <input type="text" name="file" class="input" placeholder="Link to H2Mod file"></label>
       </div>
     </section>
     <section class="section">
@@ -98,21 +72,6 @@
     </section>
 
   </form>
-  <script>
-    var thumbnailUpload = document.getElementById("thumbnailUpload");
-    thumbnailUpload.onchange = function () {
-      if (thumbnailUpload.files.length > 0) {
-        document.getElementById('thumbnailName').innerText = thumbnailUpload.files[0].name;
-      }
-    };
-
-    var h2modUpload = document.getElementById("h2modUpload");
-    h2modUpload.onchange = function () {
-      if (h2modUpload.files.length > 0) {
-        document.getElementById('h2modName').innerText = h2modUpload.files[0].name;
-      }
-    };
-  </script>
 </body>
 
 </html>
