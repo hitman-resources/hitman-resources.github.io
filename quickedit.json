@@ -1,7 +1,7 @@
 {
-    "version": 225,
-    "display_version": 2.3,
-    "changelog": "Backticks are now allowed in mod names, bugs have been fixed, and the REPO file can now be edited!",
+    "version": 226,
+    "display_version": 2.31,
+    "changelog": "A new logo by musicalmushr00m and a new icon.",
     "beta_version": 223,
     "beta_display_version": 2.3,
     "beta_changelog": "The replacement of multiple items can now be done with one objective",
