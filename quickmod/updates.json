@@ -1,7 +1,7 @@
 {
-    "version": 3,
-    "display_version": 1.02,
-    "changelog": "Adds a safeguard against selecting the wrong directory.",
+    "version": 4,
+    "display_version": 1.03,
+    "changelog": "A new logo by musicalmushr00m and a new icon.",
     "message": {
         "text": "You aren't meant to be seeing this - tell Atampy26 on Hitmanforum so he can fix it.",
         "showUntilTime": 0
