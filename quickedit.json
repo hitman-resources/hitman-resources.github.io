@@ -1,7 +1,7 @@
 {
-    "version": 226,
-    "display_version": 2.31,
-    "changelog": "A new logo by musicalmushr00m and a new icon.",
+    "version": 227,
+    "display_version": 2.32,
+    "changelog": "Better error tracking.",
     "beta_version": 223,
     "beta_display_version": 2.3,
     "beta_changelog": "The replacement of multiple items can now be done with one objective",
