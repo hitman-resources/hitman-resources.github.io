@@ -1,7 +1,7 @@
 {
-    "version": 4,
+    "version": 5,
     "display_version": 1.03,
-    "changelog": "A new logo by musicalmushr00m and a new icon.",
+    "changelog": "Better debugging for H2Mod files",
     "message": {
         "text": "You aren't meant to be seeing this - tell Atampy26 on Hitmanforum so he can fix it.",
         "showUntilTime": 0
