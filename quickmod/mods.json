@@ -58,5 +58,10 @@
         "name": "Fight Club",
         "description": "Deletes all NPC weapons, forcing guards to fistfight you. That, or T-pose on you.",
         "author": "Atampy26"
+    },
+    {
+        "name": "Amasia Robbery",
+        "description": "An offline contract with three levels, each increasing in difficulty. All levels replace Nightcall.",
+        "author": "Fallen_cherry"
     }
 ]
