@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html style="background-color: #fcfffa;">
+
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="../bulma.min.css">
+	<title>H2 Modding - Model Swapping</title>
+</head>
+
+<body>
+	<section class="section">
+		<div class="container">
+			<div class="level">
+				<div class="level-item">
+					<h1 class="title is-3">Basic Model Swapping</h1>
+				</div>
+			</div>
+		</div>
+	</section>
+	<div style="height: 5px; background-color: rgb(0, 0, 0, 0.2); border: none; margin-top: 0px; margin-bottom: 0px;">
+	</div>
+	</section>
+	<section class="section">
+        <div class="container">
+            <h2 class="title is-4">Required resources</h2>
+			<p>You'll need the following resources:</p><br>
+			<div class="list is-hoverable">
+				<a class="list-item" href="http://aluigi.altervista.org/quickbms.htm">QuickBMS (RPKG extractor)</a>
+				<a class="list-item" href="https://raw.githubusercontent.com/pawREP/ZHM5PatchBuilder/master/QuickBMS_script/Hitman2_rpkg.bms">QuickBMS script (required for QuickBMS to work)</a>
+				<a class="list-item" href="https://github.com/pawREP/ZHM5PatchBuilder/releases">Patch Builder</a>
+			</div>
+
+			<h2 class="title is-4">Extracting the models you'd like to swap</h2>
+			<p>First, find the two PRIM files you'd like to swap. A list of disguises and their associated PRIM files can be found <a href="https://gist.github.com/pawREP/50dc81c2dd09493f48ba60e37a00819a">here</a>.</p><br>
+			<p>When you've found the IDs of the models you want to swap, extract them using the following command:</p><br>
+			<pre>quickbms_4gb_files -f "*PRIM/[id of model, all lowercase]*" Hitman2_rpkg.bms "C:\Program Files (x86)\Steam\steamapps\common\HITMAN2\Runtime\chunk0.rpkg" "unpacked"</pre><br>
+			<p>Ensure that <code>Hitman2_rpkg.bms</code> is located in the same folder as <code>quickbms_4gb_files.exe</code> . If you installed Hitman 2 in a different directory, adjust the command as needed.</p><br>
+			<p>Run the command twice, once for each of the models you'd like to swap.</p><br>
+			
+			<h2 class="title is-4">Swapping the models</h2>
+			<p>In the <code>unpacked</code> folder, there should be two .PRIM files. They may be in a sub-folder called PRIM.</p><br>
+			<p>Copy the PRIM file with the ID of the model you want the other model to be swapped TO. Paste it into a new folder.</p>
+			<p>Rename the file to the ID of the model you want swapped FROM.</p><br>
+			<p>For example, to replace the Phantom Suit's driving gloves (1c437ff0448691.PRIM) with the Signature Suit's normal gloves (a92c546029c638.PRIM), copy <code>a92c546029c638.PRIM</code> to a new folder and rename it to <code>1c437ff0448691.PRIM</code> .</p><br>
+
+			<h2 class="title is-4">Packaging the mod</h2>
+			<p>Drag your new folder (with the PRIM file) onto <code>ZHM5PatchBuilder.exe</code> and an RPKG file should be created. You can then load that RPKG file with <a href="https://www.hitmanforum.com/t/quickmod-a-mod-manager-for-hitman-2/47537">QuickMod</a> or manual naming and you're done!</p>
+        </div>
+    </section>
+</body>
+
+</html>
