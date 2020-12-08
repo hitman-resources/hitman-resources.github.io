@@ -1,7 +1,7 @@
 {
-    "version": 227,
-    "display_version": 2.32,
-    "changelog": "Better error tracking.",
+    "version": 230,
+    "display_version": 2.5,
+    "changelog": "QuickEdit Neo - new interface, new features. Visit the Hitman Forum thread for more information.",
     "beta_version": 223,
     "beta_display_version": 2.3,
     "beta_changelog": "The replacement of multiple items can now be done with one objective",
