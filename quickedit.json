@@ -1,7 +1,7 @@
 {
-    "version": 233,
-    "display_version": 2.52,
-    "changelog": "AI edits and difficulty settings - see the Hitman Forum thread for more information.",
+    "version": 234,
+    "display_version": 2.6,
+    "changelog": "A friendlier and cleaner UI - see the Hitman Forum thread for more information.",
     "beta_version": 223,
     "beta_display_version": 2.3,
     "beta_changelog": "The replacement of multiple items can now be done with one objective",
