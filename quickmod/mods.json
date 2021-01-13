@@ -63,5 +63,10 @@
         "name": "Amasia Robbery",
         "description": "An offline contract with three levels, each increasing in difficulty. All levels replace Nightcall.",
         "author": "Fallen_cherry"
+    },
+    {
+        "name": "The Analyst",
+        "description": "The first Elusive Target of Season 2 takes place in Columbia. The target is Flint Montay, an analyst and drug manufacturer working for the Delgado cartel, who discovered a new method to create cocaine, which quickly made the cartel Columbia's biggest drug manufacturer.",
+        "author": "Dr. Mekar"
     }
 ]
