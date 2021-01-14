@@ -68,5 +68,10 @@
         "name": "The Analyst",
         "description": "The first Elusive Target of Season 2 takes place in Columbia. The target is Flint Montay, an analyst and drug manufacturer working for the Delgado cartel, who discovered a new method to create cocaine, which quickly made the cartel Columbia's biggest drug manufacturer.",
         "author": "Dr. Mekar"
+    },
+    {
+        "name": "The Technican & The Constable",
+        "description": "The second ET takes place in Sapienza. The targets are Maurice Konsandro, a former movie producer, and Alan, a corrupt cop, who used to break bones for the famous loan shark Damek McGarret, also known as Silverfish.",
+        "author": "Dr. Mekar"        
     }
 ]
