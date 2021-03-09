@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Offline Experience Refined",
+        "description": "Hitman's offline experience made better - more starting suits, planning pages unlocked, destructive physics, doubled breaching charges, unused items, previously online-only missions and other quality-of-life changes that improve the experience.",
+        "author": "Atampy26"
+    },
+    {
+        "name": "Readable UI",
+        "description": "Removes ALL CAPS from the UI, makes the HUD text easier to read and removes the vignette and color bleed from the minimap.",
+        "author": "Atampy26"
+    }
+]

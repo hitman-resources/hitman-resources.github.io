@@ -1,0 +1,9 @@
+{
+    "version": 5,
+    "display_version": 1.04,
+    "changelog": "Better debugging for H2Mod files",
+    "message": {
+        "text": "You aren't meant to be seeing this - tell Atampy26 on Hitmanforum so he can fix it.",
+        "showUntilTime": 0
+    }
+}
