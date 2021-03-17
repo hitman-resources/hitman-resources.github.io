@@ -8,5 +8,10 @@
         "name": "Readable UI",
         "description": "Removes ALL CAPS from the UI, makes the HUD text easier to read and removes the vignette and color bleed from the minimap.",
         "author": "Atampy26"
+    },
+    {
+        "name": "Focus",
+        "description": "Adds the Marksman perk to all weapons - hold Shift to slow down time.",
+        "author": "Atampy26"
     }
 ]
