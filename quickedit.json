@@ -1,7 +1,7 @@
 {
-    "version": 240,
-    "display_version": 2.7,
-    "changelog": "Hitman 3 support is here! See the Hitman Forum thread for more information.",
+    "version": 241,
+    "display_version": 2.71,
+    "changelog": "Fixed location display",
     "beta_version": 223,
     "beta_display_version": 2.3,
     "beta_changelog": "The replacement of multiple items can now be done with one objective",
