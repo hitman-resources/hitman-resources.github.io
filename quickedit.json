@@ -1,7 +1,7 @@
 {
-    "version": 242,
-    "display_version": 2.72,
-    "changelog": "Fixed tile images",
+    "version": 243,
+    "display_version": 2.73,
+    "changelog": "Fixed tile images + tile images are now saved",
     "beta_version": 223,
     "beta_display_version": 2.3,
     "beta_changelog": "The replacement of multiple items can now be done with one objective",
