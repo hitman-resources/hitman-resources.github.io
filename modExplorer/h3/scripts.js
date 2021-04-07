@@ -19,7 +19,7 @@ async function execute() {
 															</div>
 														</div>
 														<div class="buttons">
-															<a class="button is-link" href="https://hitman-resources.github.io/quickmod/h3/mods/${modIndex}.h2mod">Download (h2mod)</a>
+															<a class="button is-link" href="https://hitman-resources.github.io/quickmod/h3/mods/${modIndex}.h3mod">Download (h3mod)</a>
 														</div>
 													</div>
 												</div>

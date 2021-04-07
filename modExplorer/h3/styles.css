@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    font-family: Roboto !important;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    background: url(https://images5.alphacoders.com/112/1124110.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100%;
+}
+
+.card-content .button {
+    width: 100%;
+    background: white;
+    color: black;
+    border-radius: 0;
+    text-transform: uppercase;
+    text-align: left;
+    justify-content: flex-start;
+}
+
+.card-content .button:focus:not(:hover) {
+    color: black;
+}
+
+.card-content .buttons {
+    width: 100%;
+    margin-bottom: 14px;
+}
+
+.card-content {
+    padding: 0;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-content .media {
+    position: relative;
+    padding: 1.5rem;
+    background: white;
+    margin-bottom: 12px !important;
+    flex: 1;
+}
+
+.card {
+    background: transparent;
+}
+
+.button {
+    transition: transform 200ms;
+    padding-left: 10px;
+    padding-right: 0;
+}
+
+.button:hover {
+    transform: scale(1.05, 1.05);
+    background: #f00 !important;
+}
+
+.level-item .title {
+    color: white;
+}
+
+.section ~ div {
+    display: none;
+}
+
+.section {
+    padding: 3rem 1.5rem 0rem 1.5rem;
+}
+
+.column .card {
+    display: flex;
+    flex-direction: column;
+}
+
+.column {
+    display: flex;
+}
+
+.container {
+    padding-bottom: 10px;
+}
+
+.container.has-text-centered {
+    color: white;
+    padding-bottom: 40px;
+}
+
+.media-content p:last-child {
+    position: absolute;
+    margin-top: 10px;
+    bottom: 1.5rem;
+}
+
+.media-content p:nth-last-child(2) {
+    padding-bottom: 15px;
+}
+
+.media-content .title {
+    padding-bottom: 7px;
+}
+
+.card-content .button::before {
+        content: '';
+    background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLWRvd25sb2FkIiB3aWR0aD0iNDQiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZT0iIzJjM2U1MCIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBzdHJva2U9Im5vbmUiLz48cGF0aCBkPSJNNCAxN3YyYTIgMiAwIDAwMiAyaDEyYTIgMiAwIDAwMi0ydi0yTTcgMTFsNSA1IDUtNU0xMiA0djEyIi8+PC9zdmc+);
+    width: 25px;
+    height: 25px;
+    display: block;
+    background-size: contain;
+    border: black 2px solid;
+    border-radius: 5px;
+    margin-right: 7px;
+}
+
+.card-content .button:hover::before {
+    filter: brightness(10);
+    border-color: white;
+}
