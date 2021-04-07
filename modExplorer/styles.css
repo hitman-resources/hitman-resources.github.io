@@ -13,6 +13,7 @@ body {
     background-size: cover;
     background-attachment: fixed;
     min-height: 100%;
+    background-position-x: center;
 }
 
 .card-content .button {
