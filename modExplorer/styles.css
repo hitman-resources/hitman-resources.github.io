@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    background: url(https://images5.alphacoders.com/112/1124110.jpg);
+    background: url(background.jpg);
     background-size: cover;
     background-attachment: fixed;
     min-height: 100%;
