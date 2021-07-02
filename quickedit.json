@@ -1,12 +1,12 @@
 {
-    "version": 243,
-    "display_version": 2.73,
-    "changelog": "Fixed tile images + tile images are now saved",
+    "version": 244,
+    "display_version": 2.74,
+    "changelog": "Minor changes and a new \"Objective activated\" event",
     "beta_version": 223,
     "beta_display_version": 2.3,
     "beta_changelog": "The replacement of multiple items can now be done with one objective",
     "message": {
-        "text": "You aren't meant to be seeing this - tell Atampy26 on Hitmanforum so he can fix it.",
+        "text": "You aren't meant to be seeing this - tell Atampy26 on Hitman Forum so he can fix it.",
         "showUntilTime": 0
     }
 }
