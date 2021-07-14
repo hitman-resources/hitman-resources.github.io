@@ -1,7 +1,7 @@
 {
-    "version": 244,
-    "display_version": 2.74,
-    "changelog": "Minor changes and a new \"Objective activated\" event",
+    "version": 245,
+    "display_version": 2.75,
+    "changelog": "Improved settings behaviour",
     "beta_version": 223,
     "beta_display_version": 2.3,
     "beta_changelog": "The replacement of multiple items can now be done with one objective",
