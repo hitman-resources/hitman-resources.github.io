@@ -1,7 +1,7 @@
 {
-    "version": 245,
-    "display_version": 2.75,
-    "changelog": "Improved settings behaviour",
+    "version": 246,
+    "display_version": 2.76,
+    "changelog": "Fixed difficulty settings resetting after save/load",
     "beta_version": 223,
     "beta_display_version": 2.3,
     "beta_changelog": "The replacement of multiple items can now be done with one objective",
