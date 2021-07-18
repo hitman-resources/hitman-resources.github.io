@@ -1,7 +1,7 @@
 {
-    "version": 248,
-    "display_version": 2.78,
-    "changelog": "Added damage multipliers to AI/Gameplay edits",
+    "version": 249,
+    "display_version": 2.79,
+    "changelog": "Fixed damage multipliers in AI/Gameplay edits",
     "beta_version": 223,
     "beta_display_version": 2.3,
     "beta_changelog": "The replacement of multiple items can now be done with one objective",
