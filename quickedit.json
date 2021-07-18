@@ -1,7 +1,7 @@
 {
-    "version": 247,
-    "display_version": 2.77,
-    "changelog": "Fixed available entrances resetting after save/load",
+    "version": 248,
+    "display_version": 2.78,
+    "changelog": "Added damage multipliers to AI/Gameplay edits",
     "beta_version": 223,
     "beta_display_version": 2.3,
     "beta_changelog": "The replacement of multiple items can now be done with one objective",
